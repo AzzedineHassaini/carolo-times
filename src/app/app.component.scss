@@ -1,0 +1,29 @@
+:host{
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+
+  header{
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  nav{
+    height: 50px;
+    background-color: darkcyan;
+  }
+
+  main{
+    flex-grow: 1;
+  }
+
+  footer{
+    height: 30px;
+    margin-top: auto;
+    background-color: lightgray;
+  }
+
+}
