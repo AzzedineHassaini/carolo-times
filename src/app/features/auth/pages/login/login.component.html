@@ -1,0 +1,14 @@
+<h2>Rejoignez la communauté des Carolos!</h2>
+<form [formGroup]="loginFormGroup" (ngSubmit)="onSubmit()">
+  <div>
+    <label for="email">Email: </label>
+    <input type="email" id="email" formControlName="email">
+  </div>
+  <app-form-error [control]="loginFormGroup.get('email')"></app-form-error>
+  <div>
+    <label for="password">Password: </label>
+    <input type="password" id="password" formControlName="password">
+  </div>
+  <app-form-error [control]="loginFormGroup.get('password')"></app-form-error>
+  <button [disabled]="loginFormGroup.invalid" type="submit">Login</button>
+</form>

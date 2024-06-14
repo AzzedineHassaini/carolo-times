@@ -1,8 +1,16 @@
-:host{
+:host {
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 50px;
-}
 
+  a{
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: black;
+  }
+}

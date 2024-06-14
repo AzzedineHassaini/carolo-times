@@ -1,5 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "wahib@test.be",
+      "password": "$2a$10$5qwyHrnpocQFUEbAZ94j1OPGpnNLut2io1ws/wpVg2Z62Z2xnSfdm",
+      "username": "Wahib",
+      "id": 1
+    }
+  ],
   "articles": [
     {
       "id": 1,
@@ -7,7 +14,6 @@
       "description": "Charleroi, 13 juin 2024 - Les habitants de Charleroi se réveillent ce matin sous un ciel radieux, profitant d'une journée ensoleillée qui promet de mettre tout le monde de bonne humeur. Après une semaine marquée par des averses intermittentes et un temps gris, le soleil fait enfin son grand retour, apportant avec lui des températures agréables avoisinant les 25 degrés Celsius.\n\nLes parcs et les terrasses des cafés se remplissent rapidement, les Carolos ne manquant pas une occasion de profiter de cette météo clémente. \"C'est un vrai plaisir de voir le soleil après ces derniers jours maussades,\" confie Marc, propriétaire d'un café en centre-ville. \"Les clients sont de retour et l'ambiance est festive.\"\n\nLes familles en profitent également pour organiser des sorties en plein air. Les parcs, comme le Parc Reine Astrid et le Parc de Monceau, voient affluer de nombreux promeneurs, cyclistes et amateurs de pique-nique. \"Nous avons décidé de passer la journée au parc avec les enfants,\" raconte Sophie, une mère de famille. \"C'est l'occasion parfaite pour se détendre et profiter de la nature.\"\n\nLes prévisions météorologiques pour les jours à venir restent optimistes, annonçant plusieurs jours de soleil et de températures estivales. Une bonne nouvelle pour les Carolos qui espèrent prolonger cette parenthèse ensoleillée.\n\nEn attendant, cette belle journée du 13 juin restera gravée dans les mémoires comme un rappel de la beauté des jours d'été à Charleroi.\n\nProfitons de ce beau temps tant qu'il est là!",
       "publish_date": "2024-06-13",
       "author": "Anonyme"
-
     }
   ]
 }
